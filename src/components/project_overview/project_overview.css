@@ -1,0 +1,15 @@
+.projectOverview {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  background: #ededf0;
+  border-radius: 24px;
+  padding: 48px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 48px;
+}
+
+.projectOverviewTitle {
+  color: #737373;
+}

@@ -1,0 +1,26 @@
+.heading {
+  font-family: var(--font-plus-jakarta-sans);
+  font-size: 144px;
+  line-height: 144px;
+  font-weight: 600;
+  letter-spacing: -2%;
+}
+
+.pillImage {
+  border-radius: 56px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  column-gap: 36px;
+}
+
+.row:nth-child(2) {
+  margin-left: 144px;
+}
+
+.tagline {
+  margin-top: 32px;
+  text-align: center;
+}
